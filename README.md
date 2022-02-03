@@ -1,4 +1,4 @@
-# Vite + React + Typescript + Eslint + Prettier
+# Gif Expert App
 
 A simple gif app with typescript
 
