@@ -1,4 +1,4 @@
-import { getGifs } from 'helpers/getGifs';
+import { getGifs } from '@helpers/getGifs';
 import { useEffect, useState } from 'react';
 
 type Gifs = {

@@ -1,7 +1,7 @@
-import { AddCategory } from 'AddCategory';
-import { GifGrid } from 'GifGrid';
+import { AddCategory } from '@components/AddCategory';
+import { GifGrid } from '@components/GifGrid';
+import { GlobalStyle } from '@styles/GlobalStyles';
 import React, { useState } from 'react';
-import { GlobalStyle } from 'styles/GlobalStyles';
 
 function App() {
   const [categories, setCategories] = useState<string[]>(['One Punch']);
